@@ -7,9 +7,7 @@ import GlobalSettings from 'paraview-glance/src/components/core/GlobalSettings';
 export default {
   name: 'ControlsDrawer',
   components: {
-    Datasets,
-    EditTools,
-    GlobalSettings,
+    
   },
   data() {
     return {
